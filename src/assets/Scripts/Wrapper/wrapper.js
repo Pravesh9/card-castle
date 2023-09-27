@@ -31,7 +31,7 @@ var authData = {
     "password": "WVLH7i$rdRK5Sb88"
 }
 var token = "";
-var url = "http://konqu-loadb-36160nxdo52a-c6fa6feae0ac8ac2.elb.us-east-1.amazonaws.com:8080";
+var url = "https://konqu-loadb-36160nxdo52a-c6fa6feae0ac8ac2.elb.us-east-1.amazonaws.com:8080";
 var gameID = "643f08b880c4fa0370c14206";
 var API_Login = url + "/user/login";
 var API_GameInit = url + "/game/" + gameID + "/init";
